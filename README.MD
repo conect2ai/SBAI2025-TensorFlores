@@ -8,7 +8,7 @@
 
 ### ✍🏾Authors: [Thommas Flores](https://github.com/thommaskevin), [Daniel Costa](https://github.com/daniel-gcosta) and [Ivanovitch Silva](https://github.com/ivanovitchm)
 
-📅 **Date:** July 28, 2025
+📅 **Date:** July 29, 2025
 
 📍 **Event:** Brazilian Symposium on Intelligent Automation (SBAI 2025)
 
@@ -154,11 +154,9 @@ pip install -r requirements.txt
 
 1. **Flores, T.K.S., Costa, D.G., & Silva, I.** (2025). [*TensorFlores: An enhanced Python-based TinyML framework*](https://doi.org/10.1016/j.softx.2025.102224). *SoftwareX*, 31, 102224.→ Presents the TensorFlores framework, its modular architecture, evolving clustering-based quantization, and automatic C++ code generation for embedded systems.
 
-2. **Flores, T.K.S., Medeiros, M., Silva, M., Costa, D.G., & Silva, I.** (2025). [*Enhanced Vector Quantization for Embedded Machine Learning: A Post-Training Approach With Incremental Clustering*](https://ieeexplore.ieee.org/document/10849357). *IEEE Access*, 13, 17440–17456.→ Explores scalable post-training quantization for automotive ML systems using incremental clustering techniques.
+2. **Flores, T.K.S., Medeiros, M., Silva, M., Costa, D.G., & Silva, I.** (2025). [*Enhanced Vector Quantization for Embedded Machine Learning: A Post-Training Approach With Incremental Clustering*](https://ieeexplore.ieee.org/document/10849357). *IEEE Access*, 13, 17440–17456.
 
-3. **Flores, T.K.S., & Silva, I.** (2024). [*Advancing Tiny Machine Learning Operations: Robust Model Updates in the Internet of Intelligent Vehicles*](https://ieeexplore.ieee.org/document/10401949). *IEEE EUROCON Conference*.
-   → Describes a lightweight post-training quantization method optimized for low-power, resource-constrained embedded platforms.
-
+3. **Flores, T.K.S., & Silva, I.** (2025). [*Advancing Tiny Machine Learning Operations: Robust Model Updates in the Internet of Intelligent Vehicles*](https://ieeexplore.ieee.org/document/10401949). *IEEE Micro*, vol. 45, no. 1, pp. 76-86.
 ## License
 
 This package is licensed under the [MIT License](https://github.com/conect2ai/Conect2Py-Package/blob/main/LICENSE) - © 2023 Conect2ai.
