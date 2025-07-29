@@ -153,8 +153,10 @@ pip install -r requirements.txt
 ## 🗂️ References
 
 1. **Flores, T.K.S., Costa, D.G., & Silva, I.** (2025). [*TensorFlores: An enhanced Python-based TinyML framework*](https://doi.org/10.1016/j.softx.2025.102224). *SoftwareX*, 31, 102224.→ Presents the TensorFlores framework, its modular architecture, evolving clustering-based quantization, and automatic C++ code generation for embedded systems.
+
 2. **Flores, T.K.S., Medeiros, M., Silva, M., Costa, D.G., & Silva, I.** (2025). [*Enhanced Vector Quantization for Embedded Machine Learning: A Post-Training Approach With Incremental Clustering*](https://ieeexplore.ieee.org/document/10849357). *IEEE Access*, 13, 17440–17456.→ Explores scalable post-training quantization for automotive ML systems using incremental clustering techniques.
-3. **Flores, T.K.S., & Silva, I.** (2024). [*Lightweight Post-Training Quantization Method for TinyML Model Compression*](https://ieeexplore.ieee.org/document/10401949). *IEEE EUROCON Conference*.
+
+3. **Flores, T.K.S., & Silva, I.** (2024). [*Advancing Tiny Machine Learning Operations: Robust Model Updates in the Internet of Intelligent Vehicles*](https://ieeexplore.ieee.org/document/10401949). *IEEE EUROCON Conference*.
    → Describes a lightweight post-training quantization method optimized for low-power, resource-constrained embedded platforms.
 
 ## License
