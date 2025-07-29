@@ -1,0 +1,8 @@
+.venv
+*__pycache__
+pyproject.toml
+*wandb
+*artifacts
+*.json
+*.h
+my_key.py
