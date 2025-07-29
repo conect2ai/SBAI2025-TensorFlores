@@ -9,6 +9,7 @@
 ### ✍🏾Authors: [Thommas Flores](https://github.com/thommaskevin), [Daniel Costa](https://github.com/daniel-gcosta) and [Ivanovitch Silva](https://github.com/ivanovitchm)
 
 📅 **Date:** July 28, 2025
+
 📍 **Event:** Brazilian Symposium on Intelligent Automation (SBAI 2025)
 
 ## 📌 Overview
