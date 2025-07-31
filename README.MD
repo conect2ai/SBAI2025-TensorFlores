@@ -127,6 +127,7 @@ pip install -r requirements.txt
 ├── 📂 data
 │   └── emission_total.csv
 ├── 📂 docs
+│   ├── slides.pdf
 │   └── Ementa.pdf
 ├── 📂 figures
 │   └── minicurso.png
@@ -156,7 +157,7 @@ pip install -r requirements.txt
 
 2. **Flores, T.K.S., Medeiros, M., Silva, M., Costa, D.G., & Silva, I.** (2025). [*Enhanced Vector Quantization for Embedded Machine Learning: A Post-Training Approach With Incremental Clustering*](https://ieeexplore.ieee.org/document/10849357). *IEEE Access*, 13, 17440–17456.
 
-3. **Flores, T.K.S., & Silva, I.** (2025). [*Advancing Tiny Machine Learning Operations: Robust Model Updates in the Internet of Intelligent Vehicles*](https://ieeexplore.ieee.org/document/10401949). *IEEE Micro*, vol. 45, no. 1, pp. 76-86.
+3. **Flores, T.K.S., Medeiros, M., Silva, M., Costa, D.G., & Silva, I** (2025). [*Advancing Tiny Machine Learning Operations: Robust Model Updates in the Internet of Intelligent Vehicles*](https://ieeexplore.ieee.org/document/10401949). *IEEE Micro*, vol. 45, no. 1, pp. 76-86.
 ## License
 
 This package is licensed under the [MIT License](https://github.com/conect2ai/Conect2Py-Package/blob/main/LICENSE) - © 2023 Conect2ai.
